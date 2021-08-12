@@ -1,0 +1,22 @@
+#main-container {
+    width: 100vw;
+    min-height: 100vh;
+    background-color: transparent;
+    padding-top: 50px;
+}
+
+.image-holder {
+    background-color: transparent;
+    
+    min-width: 100vw;
+    text-align: center;
+}
+
+.image-holder select {
+    font-size: 18px;
+    height: 40px;
+    padding: 20px;
+    font-weight: lighter;
+    background-color: black;
+    color: white;
+}
