@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { NgxImageengineModule } from "ngx-imageengine-image";
+import { NgxImageengineModule } from "@imageengine/imageengine-angular";
 
 @NgModule({
   declarations: [

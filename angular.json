@@ -23,7 +23,8 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/ie-loader-images"
+		"src/ie-loader-images",
+		"src/favicon.ico"
             ],
             "styles": [
               "src/styles.css"
@@ -97,6 +98,10 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
