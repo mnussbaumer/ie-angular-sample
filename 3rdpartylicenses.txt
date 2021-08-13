@@ -10,10 +10,10 @@ MIT
 @angular/platform-browser
 MIT
 
-@imageengine/imageengine-helpers
+@imageengine/imageengine-angular
 MIT
 
-ngx-imageengine-image
+@imageengine/imageengine-helpers
 MIT
 
 rxjs
